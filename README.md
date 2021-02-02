@@ -37,7 +37,7 @@ This example allows for uploading a image file by:
 `npm install ejs express`
 
 - Install nodemon using command
-`npm install' nodemon --save-dev`
+`npm install nodemon --save-dev`
 
 ## Run
 - run `npm start` in the terminal 
