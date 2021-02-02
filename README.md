@@ -1,4 +1,4 @@
-# Image-uploader
+# Upload an image file to a folder in the server
 
 Uploading a File means a user from client machine requests to upload file to the server. For example, users can upload images, videos, etc on Facebook, Instagram, etc.
 
@@ -12,6 +12,13 @@ This example allows for uploading a image file by:
 - saving to an `imagesFolder` on your server.
 - limits file size to 5.0 MB (can be changed).
 
+### Validations
+- 1. Only jpg and png images must be accepted
+- 2. Max File Size Allowed is 5 MB
+
+### Technologies
+- 1. NodeJS  (Server Side)
+- 2. HTML, CSS & JS (Client Side)
 ## Start
 
 - Install packages by using command
