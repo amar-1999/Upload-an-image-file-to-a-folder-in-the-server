@@ -12,7 +12,7 @@ submitting it .
 saving to an imagesFolder on your server.
 limits file size to 5.0 MB (can be changed).
 
-##Start
+## Start
 
 Install packages by using command
 npm init -y
