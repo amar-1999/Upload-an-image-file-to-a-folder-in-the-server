@@ -15,23 +15,24 @@ This example allows for uploading a image file by:
 ## Start
 
 - Install packages by using command
-npm init -y
+'npm init -y'
 
-- and to install node modules
-npm install
+- To install node modules
+'npm install'
 
 - Install multer module by using this command.
-npm install multer
+'npm install multer'
 
 - To include the multer module in the file use this lines.
-var multer = require('multer');
+'var multer = require('multer');'
 
 - To install dependencies ejs and express, use the command
-npm install ejs express
+'npm install ejs express'
 
 - Install nodemon using command
-npm install nodemon -g
+'npm install' nodemon -g'
 
 ## Run
-- run npm start in the terminal  and 
-open http://localhost:3030/ in the browser.
+- run 'npm start' in the terminal 
+
+-open http://localhost:3030/ in the browser.
