@@ -35,4 +35,4 @@ This example allows for uploading a image file by:
 ## Run
 - run `npm start` in the terminal 
 
--open http://localhost:3030/ in the browser.
+- open http://localhost:3030/ in the browser.
